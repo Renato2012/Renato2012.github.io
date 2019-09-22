@@ -11,7 +11,7 @@ title                    : "Francisco Renato Araújo"
 title_separator          : "-"
 name                     : &name "Francisco Renato Araújo"
 description              : &description "PhD student at University Federal of Bahia (UFBA)"
-url                      : https://renato2012.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://renato2012.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "renato2012.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Francisco Renato Araújo"
-  avatar           : "https://github.com/Renato2012/renato2012.github.io/blob/master/images/myprofile.png"
+  avatar           : "renato2012.github.io/images/myprofile.png"
   bio              : "Ph.D. student at University Federal of Bahia (UFBA), researching new computer networks architectures"
   location         : "Brazil"
   employer         :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UChiX1awaW5yjF44Btucib6g"
+  youtube          : "UChiX1awaW5yjF44Btucib6g"
   wikipedia        :
 
 
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Bahia # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
