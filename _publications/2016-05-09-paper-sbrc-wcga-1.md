@@ -14,9 +14,7 @@ This paper is about the use of idle resource in private cloud computing.
 
 [Source Official](http://sbrc2016.ufba.br/downloads/WCGA/154946_1.pdf)
 
-Recommended citation:
-
-Araújo, F. R. C., Rego, P. A. L., Bonfim, M. S., Souza, A. B. De, & Souza, J. N. De. (2016). Uso Oportunístico de Recursos Computacionais em Nuvens Privadas. In XIV Workshop em Clouds e Aplicações (SBRC/WCGA) (pp. 148–161). Salvador, BA: SBC. Retrieved from http://sbrc2016.ufba.br/downloads/WCGA/154946_1.pdf
+`Recommended citation:`
 
 **Bibtex:**
 
