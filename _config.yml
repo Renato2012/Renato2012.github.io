@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Francisco Renato Araújo"
+  name             : "Renato Araújo"
   avatar           : "myprofile.png"
   bio              : "Ph.D. student at University Federal of Bahia (UFBA), researching new computer networks architectures"
-  location         : "Brazil"
+  location         : "Salvador, Brazil"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.br/citations?user=ksaLmO8AAAAJ&hl=pt-BR"
