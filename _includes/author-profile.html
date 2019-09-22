@@ -115,6 +115,11 @@
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}" target="_blank"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
+      <!-- Begin my added academic icons -->
+      {% if author.mendeley %}
+        <li><a href="{{ author.mendeley }}" target="_blank"><i class="ai ai-mendeley-square ai-fw"></i> Mendeley</a></li>
+      {% endif %}
+      <!-- End my added academic icons -->
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}" target="_blank"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
