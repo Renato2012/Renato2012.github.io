@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-05-09-paper-sbrc-wcga-1
 excerpt: 'This paper is about the use of idle resource in private cloud computing.'
 date: 2016-05-09
-venue: 'Salvador is a city in the state of Bahia, in Brazil'
+venue: 'XIV Workshop em Clouds e Aplicações (SBRC/WCGA)'
 paperurl: 'https://renato2012.github.io/files/2016-sbrc-wcga-1.pdf'
 citation: 'Araújo, F. R. C., Rego, P. A. L., Bonfim, M. S., Souza, A. B. De, & Souza, J. N. De. (2016). &quot;Uso Oportunístico de Recursos Computacionais em Nuvens Privadas.&quot; <i>In XIV Workshop em Clouds e Aplicações (SBRC/WCGA)</i>. (pp. 148--161). Salvador, BA: SBC.'
 ---
