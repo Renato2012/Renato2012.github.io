@@ -6,7 +6,7 @@ excerpt: 'This Undergraduate thesis is about the use of idle resources in privat
 date: 2014-12-09
 venue: 'Universidade Federal do Ceará Campus Quixadá'
 paperurl: 'http://www.repositorio.ufc.br/handle/riufc/25186'
-citation: 'Araújo, F. R. C., Rego, P. A. L. (2014). &quot; Uso oportunístico de recursos computacionais ociosos através da virtualização .&quot; <i>In Universidade Federal do Ceará Campus Quixadá</i>. (pp. 1–37). Quixadá, CE: UFC.'
+citation: 'Araújo, F. R. C., Rego, P. A. L. (2014). &quot;Uso oportunístico de recursos computacionais ociosos através da virtualização.&quot; <i>In Universidade Federal do Ceará Campus Quixadá</i>. (pp. 1-37). Quixadá, CE: UFC.'
 ---
 This Undergraduate thesis is about the use of idle resources in private cloud computing, using software open source.
 
