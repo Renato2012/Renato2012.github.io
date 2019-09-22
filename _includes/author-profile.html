@@ -119,6 +119,15 @@
       {% if author.mendeley %}
         <li><a href="{{ author.mendeley }}" target="_blank"><i class="ai ai-mendeley-square ai-fw"></i> Mendeley</a></li>
       {% endif %}
+      {% if author.dblp %}
+        <li><a href="{{ author.dblp }}" target="_blank"><i class="ai ai-dblp-square ai-fw"></i> dblp</a></li>
+      {% endif %}
+      {% if author.publons %}
+        <li><a href="{{ author.publons }}" target="_blank"><i class="ai ai-publons-square ai-fw"></i> Publons</a></li>
+      {% endif %}
+      {% if author.academia %}
+        <li><a href="{{ author.academia }}" target="_blank"><i class="ai ai-academia-square ai-fw"></i> Academia</a></li>
+      {% endif %}
       <!-- End my added academic icons -->
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}" target="_blank"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
