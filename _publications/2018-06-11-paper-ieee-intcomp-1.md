@@ -6,7 +6,7 @@ excerpt: 'This paper is about forwarding strategy in Vehicular Named Data Networ
 date: 2018-06-11
 venue: 'IEEE Internet Computing'
 paperurl: 'https://ieeexplore.ieee.org/document/8379540'
-citation: 'Sousa, A. M., Araújo, F. R. C., Sampaio, L. N. (2018). &quot;A Link-Stability-Based Interest-Forwarding Strategy For Vehicular Named Data Networks.&quot; <i>In IEEE Internet Computing</i>. (pp. 16--26). IEEE.'
+citation: 'Sousa, A. M., Araújo, F. R. C., Sampaio, L. N. (2018). &quot;A Link-Stability-Based Interest-Forwarding Strategy For Vehicular Named Data Networks.&quot; <i>In IEEE Internet Computing</i>. (pp. 16-26). IEEE.'
 ---
 This paper is about forwarding strategy in Vehicular Named Data Networking (VNDN).
 
