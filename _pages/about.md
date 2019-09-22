@@ -9,3 +9,10 @@ redirect_from:
 ---
 
 I received my M.Sc. degree in Computer Science from the Federal University of Bahia (UFBA), in 2018, and my B.S. in Computer Networks from the Federal University of Ceará (UFC) in 2014.
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
