@@ -6,7 +6,7 @@ excerpt: 'This Master thesis is about the producer mobility support in Named Dat
 date: 2018-07-18
 venue: 'Universidade Federal da Bahia'
 paperurl: 'https://repositorio.ufba.br/ri/handle/ri/29343'
-citation: 'Araújo, F. R. C and Sampaio, L. N. (2018). &quot; Cache Colaborativo e Distribuído como Suporte à Mobilidade de Produtores em Redes Sem Fio de Dados Nomeados. &quot; <i>In Universidade Federal da Bahia</i>. (pp. 1–83). Salvador, BA: UFBA.'
+citation: 'Araújo, F. R. C and Sampaio, L. N. (2018). &quot;Cache Colaborativo e Distribuído como Suporte à Mobilidade de Produtores em Redes Sem Fio de Dados Nomeados.&quot; <i>In Universidade Federal da Bahia</i>. (pp. 1–83). Salvador, BA: UFBA.'
 ---
 This Master thesis is about the producer mobility support in Named Data Networking (NDN).
 
