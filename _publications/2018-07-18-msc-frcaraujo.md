@@ -25,7 +25,7 @@ This Master thesis is about the producer mobility support in Named Data Networki
   publisher={UFBA}
   location={Salvador},
   school = {Universidade Federal da Bahia},
-  title = {{Cache Colaborativo e Distribu{\'{i}}do como Suporte {\`{a}} Mobilidade de Produtores em Redes Sem Fio de Dados Nomeados}},
+  title = {Cache Colaborativo e Distribu{\'{i}}do como Suporte {\`{a}} Mobilidade de Produtores em Redes Sem Fio de Dados Nomeados},
   url = {https://repositorio.ufba.br/ri/handle/ri/29343},
   year = {2018}
 }
