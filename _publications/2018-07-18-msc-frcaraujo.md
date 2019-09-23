@@ -22,8 +22,8 @@ This Master thesis is about the producer mobility support in Named Data Networki
 @phdthesis{Araujomsc:2018,
   author = {Ara{\'{u}}jo, Francisco R. C. and Sampaio, Leobino N.},
   pages = {1--83},
-  publisher={UFBA}
-  location={Salvador},
+  publisher = {UFBA},
+  location = {Salvador},
   school = {Universidade Federal da Bahia},
   title = {Cache Colaborativo e Distribu{\'{i}}do como Suporte {\`{a}} Mobilidade de Produtores em Redes Sem Fio de Dados Nomeados},
   url = {https://repositorio.ufba.br/ri/handle/ri/29343},
