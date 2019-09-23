@@ -25,7 +25,7 @@ This Undergraduate thesis is about the use of idle resources in private cloud co
   publisher = {UFC},
   location = {Quixad\'{a}},
   school = {Universidade Federal do Cear{\'{a}}},
-  title = {{Uso Oportun{\'{i}}stico de Recursos Computacionais Ociosos Atrav{\'{e}}s da Virtualiza{\c{c}}{\~{a}}o}},
+  title = {Uso Oportun{\'{i}}stico de Recursos Computacionais Ociosos Atrav{\'{e}}s da Virtualiza{\c{c}}{\~{a}}o},
   url = {http://www.repositorio.ufc.br/handle/riufc/25186},
   year = {2014}
 }
