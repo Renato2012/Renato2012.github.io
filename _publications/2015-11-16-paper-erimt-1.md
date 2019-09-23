@@ -20,17 +20,17 @@ This paper is about the use of virtualization for teaching network infrastructur
 
 ```tex
 @inproceedings{araujo:2015,
-	author = {Ara\'{u}jo, Francisco Renato Cavalcante},
-	title = {Uso de Ambientes Virtualizados para o Ensino de Infraestrutura de Redes},
-	journal = {Anais da Escola Regional de Inform\'{a}tica da Sociedade Brasileira  de Computa\c{c}\~{a}o (SBC) -- Regional de Mato Grosso},
+  author = {Ara\'{u}jo, Francisco Renato Cavalcante},
+  title = {Uso de Ambientes Virtualizados para o Ensino de Infraestrutura de Redes},
+  journal = {Anais da Escola Regional de Inform\'{a}tica da Sociedade Brasileira  de Computa\c{c}\~{a}o (SBC) -- Regional de Mato Grosso},
   location={Cuiab\'{a}},
   year={2015},
   keywords = {},
-	volume = {6},
-	number = {0},
-	issn = {2447-5386},
-	url = {http://anaiserimt.ic.ufmt.br/index.php/erimt/article/view/7},
-	pages = {208--210},
+  volume = {6},
+  number = {0},
+  issn = {2447-5386},
+  url = {http://anaiserimt.ic.ufmt.br/index.php/erimt/article/view/7},
+  pages = {208--210},
   publisher={SBC}
 }
 ```
