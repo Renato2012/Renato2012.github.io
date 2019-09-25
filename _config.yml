@@ -10,7 +10,7 @@ locale                   : "pt-BR"
 title                    : "Francisco Renato Araújo"
 title_separator          : "-"
 name                     : &name "Francisco Renato Araújo"
-description              : &description "PhD student at University Federal of Bahia (UFBA)"
+description              : &description "PhD student at Federal University of Bahia (UFBA)"
 url                      : https://renato2012.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "renato2012.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Renato Araújo"
   avatar           : "myprofile.png"
-  bio              : "Ph.D. student at University Federal of Bahia (UFBA), researching new computer networks architectures"
+  bio              : "Ph.D. student at Federal University of Bahia (UFBA), researching new computer networks architectures"
   location         : "Salvador, Brazil"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
