@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Networks, Federal University of Ceará ([UFC](https://rc.quixada.ufc.br)), 2012 -- 2014
-* B.Sc. in Information Systems, Federal University of Ceará ([UFC](https://si.quixada.ufc.br)), 2015 -- 2016 (discontinued)
-* M.Sc. in Computer Science, Federal University of Bahia ([UFBA](http://pgcomp.dcc.ufba.br)), 2016 -- 2018
-* Ph.D in Computer Science, Federal University of Bahia ([UFBA](http://pgcomp.dcc.ufba.br)), 2018 -- 2021 (expected)
+* B.S. in [Computer Networks](https://rc.quixada.ufc.br), Federal University of Ceará ([UFC](https://www.quixada.ufc.br)), 2012 -- 2014
+* B.Sc. in [Information Systems](https://si.quixada.ufc.br), Federal University of Ceará ([UFC](https://www.quixada.ufc.br)), 2015 -- 2016 (discontinued)
+* M.Sc. in [Computer Science](http://pgcomp.dcc.ufba.br), Federal University of Bahia ([UFBA](https://www.ufba.br)), 2016 -- 2018
+* Ph.D in [Computer Science](http://pgcomp.dcc.ufba.br), Federal University of Bahia ([UFBA](https://www.ufba.br)), 2018 -- 2021 (expected)
 
 Work experience
 ======
