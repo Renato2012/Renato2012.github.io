@@ -39,7 +39,8 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+[comment]: <> (I added reversed to list articles in reverse order (newer to older).)
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
