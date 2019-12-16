@@ -6,7 +6,7 @@ excerpt: 'This paper is about the use of virtualization for teaching network inf
 date: 2014-10-23
 venue: 'IV Encontros Universitários da UFC - Campus Quixadá'
 paperurl: 'https://www.quixada.ufc.br/wp-content/uploads/2015/06/Encontros-Universit%C3%A1rios-2014.pdf#page=249'
-citation: 'Araújo, F. R. C., de Sousa, F. P. O., Rego, P. A. L. (2015). &quot;Utilizando Ambientes Virtualizados para Práticas de Laboratório de Infraestrutura de Redes.&quot; <i>In IV Encontros Universitários da UFC - Campus Quixadá</i>. (pp. 249-252). Quixadá, CE: UFC.'
+citation: 'Araújo, F. R. C., de Sousa, F. P. O., Rego, P. A. L. (2014). &quot;Utilizando Ambientes Virtualizados para Práticas de Laboratório de Infraestrutura de Redes.&quot; <i>In IV Encontros Universitários da UFC - Campus Quixadá</i>. (pp. 249-252). Quixadá, CE: UFC.'
 ---
 This paper is about the use of virtualization for teaching network infrastructures.
 
