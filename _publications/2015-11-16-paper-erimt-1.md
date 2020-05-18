@@ -2,6 +2,8 @@
 title: "Uso de Ambientes Virtualizados para o Ensino de Infraestrutura de Redes"
 collection: publications
 permalink: /publication/2015-11-16-paper-erimt-1
+category: conferences
+tags: brazilian
 excerpt: 'This paper is about the use of virtualization for teaching network infrastructures.'
 date: 2015-11-16
 venue: 'VI Escola Regional de Informática de Mato Grosso (ERI-MT)'
