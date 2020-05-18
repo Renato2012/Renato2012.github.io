@@ -2,6 +2,10 @@
 title: "Mobilidade em NDN: Consumidores versus Produtores"
 collection: publications
 permalink: /publication/2017-05-09-paper-sbrc-wp2p-1
+category: conferences
+tags: 
+  - brazilian
+  - workshops
 excerpt: 'This paper is about the producer and consumer mobility in Named-Data Networking (NDN).'
 date: 2017-05-09
 venue: 'XIII Workshop de Redes P2P, Dinâmicas, Sociais e Orientadas a Conteúdo (SBRC/WP2P+)'
