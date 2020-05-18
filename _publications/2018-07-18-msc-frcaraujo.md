@@ -2,6 +2,8 @@
 title: "Cache Colaborativo e Distribuído como Suporte à Mobilidade de Produtores em Redes Sem Fio de Dados Nomeados"
 collection: publications
 permalink: /publication/2018-07-18-msc-frcaraujo
+category: msc thesis
+tags: brazilian
 excerpt: 'This Master thesis is about the producer mobility support in Named Data Networking (NDN).'
 date: 2018-07-18
 venue: 'Universidade Federal da Bahia'
