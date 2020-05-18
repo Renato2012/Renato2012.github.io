@@ -2,6 +2,8 @@
 title: "Utilizando Ambientes Virtualizados para Práticas de Laboratório de Infraestrutura de Redes"
 collection: publications
 permalink: /publication/2014-10-23-paper-eu-ufc-1
+category: conferences
+tags: brazilian
 excerpt: 'This paper is about the use of virtualization for teaching network infrastructures.'
 date: 2014-10-23
 venue: 'IV Encontros Universitários da UFC - Campus Quixadá'
