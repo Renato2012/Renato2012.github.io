@@ -2,6 +2,7 @@
 title: "A Link-Stability-Based Interest-Forwarding Strategy For Vehicular Named Data Networks"
 collection: publications
 permalink: /publication/2018-06-11-paper-ieee-intcomp-1
+category: journals
 excerpt: 'This paper is about forwarding strategy in Vehicular Named Data Networking (VNDN).'
 date: 2018-06-11
 venue: 'IEEE Internet Computing'
