@@ -2,6 +2,8 @@
 title: "Uso oportunístico de recursos computacionais ociosos através da virtualização"
 collection: publications
 permalink: /publication/2014-12-09-tcc-frcaraujo
+category: bs thesis
+tags: brazilian
 excerpt: 'This Undergraduate thesis is about the use of idle resources in private cloud computing, using software open source.'
 date: 2014-12-09
 venue: 'Universidade Federal do Ceará Campus Quixadá'
