@@ -2,6 +2,7 @@
 title: "SCaN-Mob: An opportunistic caching strategy to support producer mobility in named data wireless networking"
 collection: publications
 permalink: /publication/2019-06-19-paper-comnet-1
+category: journals
 excerpt: 'This paper is about producer mobility support in Named Data Networking (NDN).'
 date: 2019-06-19
 venue: 'Computer Networks'
