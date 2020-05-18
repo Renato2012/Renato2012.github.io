@@ -9,7 +9,7 @@ venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2005.01461'
 citation: 'Araújo, F. R. C. (2020). &quot;Evacuação de Dados em Nuvens Ópticas com base no SLA sob Cenário de Desastre.&quot; <i>In arXiv</i>.'
 ---
-This paper is about forwarding strategy in Vehicular Named Data Networking (VNDN).
+This paper proposes two techniques to evacuate data from threatened Data Centers (DCs) to those who are outside the risk zone of the attack.
 
 [Download paper here](https://renato2012.github.io/files/2020-arxiv-v1-1.pdf)
 
