@@ -2,6 +2,10 @@
 title: "Uso Oportunístico de Recursos Computacionais em Nuvens Privadas"
 collection: publications
 permalink: /publication/2016-05-09-paper-sbrc-wcga-1
+category: conferences
+tags: 
+  - brazilian
+  - workshops
 excerpt: 'This paper is about the use of idle resource in private cloud computing.'
 date: 2016-05-09
 venue: 'XIV Workshop de Computação em Clouds e Aplicações (SBRC/WCGA)'
