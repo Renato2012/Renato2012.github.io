@@ -2,6 +2,8 @@
 title: "Habilitando Diferentes Visões e Cotas de Usuário no OpenNebula"
 collection: publications
 permalink: /publication/2014-10-23-paper-eu-ufc-2
+category: conferences
+tags: brazilian
 excerpt: 'This paper is about advanced OpenNebula software settings.'
 date: 2014-10-23
 venue: 'IV Encontros Universitários da UFC - Campus Quixadá'
