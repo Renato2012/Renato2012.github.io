@@ -36,7 +36,10 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+      
+    {% comment %} turn strong my author name {% endcomment %}
+    {% assign citation_author_name_bold = post.citation | replace_first: "Araújo, F. R. C.", "<strong>Araújo, F. R. C.</strong>" %}
+    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{ citation_author_name_bold }}</p> {% endif %}
     </li>
  </article>
 </div>
