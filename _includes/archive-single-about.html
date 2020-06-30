@@ -1,0 +1,54 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+    <h3 class="archive__item-title" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      {% endif %}
+    </h3>
+    {% if post.read_time %}
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% endif %}
+      
+    {% comment %} split post.citation in 3 parts; after turn strong my author name; and shows only first and last. {% endcomment %}
+    
+    {% assign citation = post.citation | split: "&quot;" %}
+    {% assign field_authors = citation.first | replace_first: "Araújo, F. R. C.", "<strong>Araújo, F. R. C.</strong>" %}
+    {% assign field_venue = citation.last %}
+
+    {% capture info %}
+    <i>by</i> {{ field_authors }} {{ field_venue }} {{ post.date | date: "%b, %Y" }}.
+    {% endcapture %}
+
+    {% comment %} post.citation contains full post.citation informations {% endcomment %}
+    {% if post.citation %}<p class="archive__item-excerpt" itemprop="description">{{ info }}</p> {% endif %}
+    </li>
+ </article>
+</div>
