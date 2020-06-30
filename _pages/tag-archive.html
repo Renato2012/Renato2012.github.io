@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
-{% include group-by-array collection=site.posts field="tags" %}
+{% comment %} <!-- I added this. Join site.publications and site.posts tags --> {% endcomment %}
+{% assign pubs-and-posts = site.publications | concat: site.posts %}
+{% include group-by-array collection=pubs-and-posts field="tags" %}
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
