@@ -36,9 +36,9 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-      
+
     {% comment %} split post.citation in 3 parts; after turn strong my author name; and shows only first and last. {% endcomment %}
-    
+
     {% assign citation = post.citation | split: "&quot;" %}
     {% assign field_authors = citation.first | replace_first: "Araújo, F. R. C.", "<strong>Araújo, F. R. C.</strong>" %}
     {% assign field_venue = citation.last %}
