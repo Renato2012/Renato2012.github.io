@@ -3,13 +3,13 @@ title: "Mobilidade em NDN: Consumidores versus Produtores"
 collection: publications
 permalink: /publication/2017-05-09-paper-sbrc-wp2p-1
 category: conferences
-tags: 
+tags:
   - brazilian
   - workshops
 excerpt: 'This paper is about the producer and consumer mobility in Named-Data Networking (NDN).'
 date: 2017-05-09
 venue: 'XIII Workshop de Redes P2P, Dinâmicas, Sociais e Orientadas a Conteúdo (SBRC/WP2P+)'
-paperurl: 'https://sbrc2017.ufpa.br/wp-content/uploads/2017/05/proceedingsWP2P2017.pdf#page=19'
+paperurl: 'https://repositorio.ufba.br/ri/handle/ri/30721'
 citation: 'Araújo, F. R. C., Sampaio, L. N. (2017). &quot;Mobilidade em NDN: Consumidores versus Produtores.&quot; <i>In XIII Workshop de Redes P2P, Dinâmicas, Sociais e Orientadas a Conteúdo (SBRC/WP2P+)</i>. (pp. 8-13). Belém, PA: SBC.'
 ---
 This paper is about the producer and consumer mobility in Named-Data Networking (NDN).

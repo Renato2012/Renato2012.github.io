@@ -18,16 +18,16 @@ This paper is about forwarding strategy in Vehicular Named Data Networking (VNDN
 **Bibtex:**
 
 ```tex
-@article{sousa:2018, 
-author={A. M. {de Sousa} and F. R. C. {Ara\'{u}jo} and L. N. {Sampaio}}, 
-journal={IEEE Internet Computing}, 
-title={A Link-Stability-Based Interest-Forwarding Strategy For Vehicular Named Data Networks}, 
-year={2018}, 
-volume={22}, 
-number={3}, 
-pages={16--26}, 
-doi={10.1109/MIC.2018.032501512}, 
-ISSN={}, 
+@article{sousa:2018,
+author={A. M. {de Sousa} and F. R. C. {Ara\'{u}jo} and L. N. {Sampaio}},
+journal={IEEE Internet Computing},
+title={A Link-Stability-Based Interest-Forwarding Strategy For Vehicular Named Data Networks},
+year={2018},
+volume={22},
+number={3},
+pages={16--26},
+doi={10.1109/MIC.2018.032501512},
+ISSN={1941-0131}, 
 month={May},
 }
 ```
